@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.2.0)
+  - Fuzi (1.0.1)
+  - MBProgressHUD (1.0.0)
+  - PNChart (0.8.9):
+    - UICountingLabel (~> 1.2.0)
+  - ReachabilitySwift (3)
+  - UICountingLabel (1.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Fuzi
+  - MBProgressHUD
+  - PNChart
+  - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  Fuzi: 851403654bac55675aaeed815d0c8a1d3e3d3e8b
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  PNChart: 84774d225c2126ded6c93d4dbe6ae98c3a73c2d2
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+
+PODFILE CHECKSUM: 44ca9bc3b420301e82abe364519ec63a3ab97b39
+
+COCOAPODS: 1.2.0
