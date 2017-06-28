@@ -33,6 +33,7 @@
 		477029EB1E9A1B960017EE46 /* CombinationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477029EA1E9A1B960017EE46 /* CombinationCell.swift */; };
 		477292AD1E77A223007F4192 /* MyNumberCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477292AC1E77A223007F4192 /* MyNumberCell.swift */; };
 		4778325A1E9A603600ED5FF4 /* CompatibilityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477832591E9A603600ED5FF4 /* CompatibilityViewController.swift */; };
+		4779E8BA1EBC0B9E002C949B /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4779E8B91EBC0B9E002C949B /* Test.swift */; };
 		478F3BED1E7B7AA0005D9E3A /* TrendData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478F3BEC1E7B7AA0005D9E3A /* TrendData.swift */; };
 		478F3BEF1E7BA5FD005D9E3A /* TrendViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478F3BEE1E7BA5FD005D9E3A /* TrendViewController.swift */; };
 		47A051EE1E7A8D450021BC74 /* StatisticsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47A051ED1E7A8D450021BC74 /* StatisticsViewController.swift */; };
@@ -99,6 +100,7 @@
 		477029EA1E9A1B960017EE46 /* CombinationCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CombinationCell.swift; sourceTree = "<group>"; };
 		477292AC1E77A223007F4192 /* MyNumberCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyNumberCell.swift; sourceTree = "<group>"; };
 		477832591E9A603600ED5FF4 /* CompatibilityViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompatibilityViewController.swift; sourceTree = "<group>"; };
+		4779E8B91EBC0B9E002C949B /* Test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		478F3BEC1E7B7AA0005D9E3A /* TrendData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrendData.swift; sourceTree = "<group>"; };
 		478F3BEE1E7BA5FD005D9E3A /* TrendViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrendViewController.swift; sourceTree = "<group>"; };
 		47A051ED1E7A8D450021BC74 /* StatisticsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatisticsViewController.swift; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 			children = (
 				47CE088A1E6789B4000C979E /* Classes */,
 				47CE08561E678758000C979E /* AppDelegate.swift */,
+				4779E8B91EBC0B9E002C949B /* Test.swift */,
 				47CE085D1E678758000C979E /* Assets.xcassets */,
 				47CE08841E67877B000C979E /* Supporting Files */,
 			);
@@ -621,6 +624,7 @@
 				472DFF791E76555E00E9A62C /* BallButton.swift in Sources */,
 				470EEAFF1E7D2F1900658196 /* TrendAnRowStatisticsView.swift in Sources */,
 				477029EB1E9A1B960017EE46 /* CombinationCell.swift in Sources */,
+				4779E8BA1EBC0B9E002C949B /* Test.swift in Sources */,
 				4761A7471E7F623200CEE356 /* FunctionListViewController.swift in Sources */,
 				473728A41E97A520003E9669 /* CombinationAllViewController.swift in Sources */,
 				47027A511E6D187A001C8660 /* WinningCell.swift in Sources */,
